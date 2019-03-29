@@ -6,6 +6,7 @@
 [![codecov](https://codecov.io/gh/alibaba/fescar/branch/develop/graph/badge.svg)](https://codecov.io/gh/alibaba/fescar)
 ![license](https://img.shields.io/github/license/alibaba/fescar.svg)
 ![maven](https://img.shields.io/maven-central/v/com.alibaba.fescar/fescar-all.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRikardLegge%2Ffescar.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRikardLegge%2Ffescar?ref=badge_shield)
 
 ## What is Fescar?
 
@@ -135,3 +136,6 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 ## License
 
 Fescar is under the Apache 2.0 license. See the [LICENSE](https://github.com/alibaba/fescar/blob/master/LICENSE) file for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRikardLegge%2Ffescar.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRikardLegge%2Ffescar?ref=badge_large)
